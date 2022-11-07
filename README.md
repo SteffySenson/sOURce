@@ -16,9 +16,9 @@ This app currently features -<br>
 Thought Process<br>
 ---------------<br>
 
-This is my first attempt at building a Website using Django. I have researched about basic requirements needed for projects using Django from tutorials and documentation. I used VSCode for the project. 'sOURce' seems like an ideal name for the project, since I had to learn it from the scratch ;) and also the highlighted 'OUR' is source gives a feeling of belonging in using the webchat. The simple interface makes it easier for user to navigate through the site. I use Asynchronous JS
+This is my first attempt at building a Website using Django. I have researched about basic requirements needed for projects using Django from tutorials and documentation. I used VSCode for the project. 'sOURce' seems like an ideal name for the project, since I had to learn it from the scratch ;) and also the highlighted 'OUR' is source gives a feeling of belonging in using the webchat. The simple interface makes it easier for user to navigate through the site. I am working on the rest of the features to be added to the webapp.
 
-In future the app will be able to -<br>
+Soon, the app will be able to -<br>
 
 -Delete and edit the previous messages.<br>
 -User Authenticated for login.<br>
