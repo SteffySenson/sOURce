@@ -6,14 +6,17 @@
 
 
 
-A Realtime Web based chatting app using HTML, CSS , AJAX &amp; Django with SQL database
+A Realtime Web based chatting app using HTML, CSS &amp; Django with a little bit of AJAX<br>
 
-
-This app features -<br>
+This app currently features -<br>
 
  -A web based app<br>
  -Able to send messages to a user using a username and a unique number(can be phone number or any digits)<br>
 
+Thought Process<br>
+---------------<br>
+
+This is my first attempt at building a Website using Django. I have researched about basic requirements needed for projects using Django from tutorials and documentation. I used VSCode for the project. 'sOURce' seems like an ideal name for the project, since I had to learn it from the scratch ;) and also the highlighted 'OUR' is source gives a feeling of belonging in using the webchat. The simple interface makes it easier for user to navigate through the site. I use Asynchronous JS
 
 In future the app will be able to -<br>
 
